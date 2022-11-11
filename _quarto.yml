@@ -10,10 +10,10 @@ format:
   html:
     theme: cosmo
     fig-align: center
+  docx:
+    fig-align: center
   # pdf:
   #   documentclass: scrreprt
   #   fig-align: right
-  docx:
-    fig-align: center
 
 editor: source
