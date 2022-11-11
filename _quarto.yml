@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Mermaid alignment"
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
+    fig-align: center
+  # pdf:
+  #   documentclass: scrreprt
+  #   fig-align: right
+  docx:
+    fig-align: center
+
+editor: source

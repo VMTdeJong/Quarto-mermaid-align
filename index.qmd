@@ -1,0 +1,9 @@
+
+```{mermaid}
+%%| fig-cap: Mermaid diagram
+%%| fig-align: center
+flowchart TB
+
+a --> b 
+b --> c
+```
